@@ -17,12 +17,7 @@ Sinh viên ngành Công nghệ Thông tin đam mê lập trình, khám phá côn
 
 ### 🚀 Các dự án cá nhân (Projects): Sẽ cập nhật sau.
 
-### 📈 Thống kê GitHub:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dangtrong210&show_icons=true&theme=radical&hide_border=true&locale=vn" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangtrong210&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+### 📈 Thống kê GitHub: Sẽ cập nhật sau.
 
 ### 📫 Cách liên lạc với mình:
 
