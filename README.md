@@ -21,6 +21,6 @@ Sinh viên ngành Công nghệ Thông tin đam mê lập trình, khám phá côn
 
 ### 📫 Cách liên lạc với mình:
 
-* ✉️ **Email:** ledangtrong2109@gmail.com
+* ✉️ **Email:**
 * 💼 **LinkedIn:**
 * 📝 **Blog/Portfolio:**
